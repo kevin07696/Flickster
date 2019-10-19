@@ -19,10 +19,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
-<p float="left">
-   <img src='Walkthrough_land.gif' title='Video Walkthrough Landscape' width='550' alt='Video Walkthrough Landscape'/>
-   <img src='Walkthrough.gif' title='Video Walkthrough Portrait' width='275' alt='Video Walkthrough Portrait'/>
-</p>
+<img src='Walkthrough_land.gif' title='Video Walkthrough Landscape' width='550' alt='Video Walkthrough Landscape'/><br><br>
+<img src='Walkthrough.gif' title='Video Walkthrough Portrait' width='275' alt='Video Walkthrough Portrait'/>
+
 
 ### Open-source libraries used
 
